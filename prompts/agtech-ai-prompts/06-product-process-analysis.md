@@ -43,7 +43,7 @@ We are currently testing 3 different methods of processing the finished product 
  Mini = 2007 grams
  OM =  grams
 
-** method 1 = Machine Trim **
+**method 1 = Machine Trim**
 
  Each step requires the following hours to complete
  Bucking of product  2 empolyees working 4hrs of labor 
@@ -51,13 +51,13 @@ We are currently testing 3 different methods of processing the finished product 
  Machine clean
  Sifting
 
-** method 2  =  hand trimmer only **
+**method 2  =  hand trimmer only**
  
  Tray prep 1 person 1 hour total
  Hand trimmers total of 5 employees working total of  19.5 hrs
  Sifting Time 1 person total of 2 hours
 
-Option 3: hand trim  and machine
+**Method 3: Machine/Hand Hybrid**
 
 This method is combination of the two above methods where the large buds are hand trimmed and small buds are machine trimmed.
 
